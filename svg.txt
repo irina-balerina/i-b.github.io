@@ -1,0 +1,96 @@
+                                
+                                         <h1>SVG</h1>
+
+
+                                         <!--шарики-->
+    <svg width="360" height="500">
+        <rect width="320" height="460" x="20" y="20" rx="20" fill="lemonchiffon" />
+        <circle r="100" cx="140" cy="170" fill="crimson" />
+        <ellipse rx="60" ry="80" cx="250" cy="210" fill="gold" />
+        <polyline points="140,270 150,300 135,330 150,360 135,390 150, 420" fill="none" stroke="brown" />
+        <polyline points="250,290 260,320 245,350 260,380 245,410 260,440 " fill="none" stroke="brown" />
+        <polygon points="130,280 140,270 150,280" fill="crimson" />
+        <polygon points="240,300 250,290 260,300" fill="gold" />
+
+    </svg>
+
+                                          <!--знаки-->
+    <svg width="550" height="120">
+        <line x1="10" y1="60" x2="110" y2="60" stroke="teal" stroke-width="20" />
+        <line x1="60" y1="10" x2="60" y2="110" stroke="teal" stroke-width="20" />
+        <line x1="120" y1="60" x2="220" y2="60" stroke="orangered" stroke-width="20" />
+        <line x1="230" y1="15" x2="320" y2="105" stroke="royalblue" stroke-width="20" />
+        <line x1="230" y1="105" x2="320" y2="15" stroke="royalblue" stroke-width="20" />
+        <line x1="350" y1="105" x2="440" y2="15" stroke="purple" stroke-width="20" />
+        <line x1="450" y1="45" x2="540" y2="45" stroke="orange" stroke-width="20" />
+        <line x1="450" y1="75" x2="540" y2="75" stroke="orange" stroke-width="20" />
+    </svg>
+
+                                         <!--смайлик-->
+    <svg width="310" height="290">
+        <ellipse rx="75" ry="20" cx="150" cy="270" fill="lightgray" />
+        <circle r="120" cx="150" cy="150" fill="gold" />
+        <circle r="50" cx="100" cy="120" fill="white" />
+        <circle r="50" cx="170" cy="120" fill="white" />
+        <circle r="10" cx="100" cy="120" fill="black" />
+        <circle r="10" cx="170" cy="120" fill="black" />
+        <ellipse rx="10" ry="20" cx="135" cy="210" fill="crimson" />
+    </svg>
+
+                                           <!--мишень-->
+    <svg width="300" height="290">
+        <rect width="300" height="180" fill="skyblue" />
+        <rect width="300" height="110" y="180" fill="yellowgreen" />
+        <rect width="10" height="30" x="80" y="230" rx="5" fill="black" />
+        <rect width="10" height="30" x="210" y="230" rx="5" fill="black" />
+        <circle r="100" cx="50%" cy="160" fill="crimson" />
+        <circle r="80" cx="50%" cy="160" fill="white" />
+        <circle r="60" cx="50%" cy="160" fill="crimson" />
+        <circle r="40" cx="50%" cy="160" fill="white" />
+        <circle r="20" cx="50%" cy="160" fill="crimson" />
+    </svg>
+
+                                           <!--зет-->
+    <svg width="340" height="240">
+        <polyline points="111 61.5 217.984 61.5 123.035 180.231 229.738 180.06" stroke="teal" stroke-width="80"
+            stroke-linecap="square" stroke-opacity="" fill="none"></polyline>
+
+        <polyline points="122 61.5 217.984 61.5 123.035 180.231 218.738 180.06" stroke="lightseagreen" stroke-width="50"
+            stroke-linecap="round" stroke-linejoin="round" stroke-opacity="" fill="none"></polyline>
+
+        <polyline points="120 61.5 217.984 61.5 123.035 180.231 220.738 180.06" stroke="gold" stroke-width="10"
+            stroke-linejoin="bevel" fill="none"></polyline>
+    </svg>
+    
+
+                                           <!--солнце-->
+    <svg width="300" height="150">
+        <circle r="70" cx="50%" cy="100%" stroke="tomato" stroke-width="150" stroke-dasharray="15" fill="none"></circle>
+        <circle r="60" cx="50%" cy="100%" stroke="darkorange" stroke-width="125" stroke-dasharray="10" fill="none">
+        </circle>
+        <circle r="50" cx="50%" cy="100%" stroke="gold" stroke-width="75" stroke-dasharray="15 10" fill="gold"></circle>
+    </svg>
+
+                                         <!--спасательный круг-->
+    <svg width="200" height="200">
+        <circle r="70" cx="100" cy="100" fill="none" stroke="lightgrey" stroke-width="55"></circle>
+
+        <circle r="70" cx="100" cy="100" fill="none" stroke="tomato" stroke-width="50"></circle>
+
+        <circle r="70" cx="100" cy="100" fill="none" stroke="white" stroke-width="50" stroke-dasharray="20 90"
+            stroke-dashoffset="10"></circle>
+    </svg>
+
+                                              <!--леденец-->
+    <svg width="300" height="290">
+        <rect fill="khaki" stroke="darkkhaki" width="10" height="70" x="145" y="220"></rect>
+
+        <circle stroke="darkkhaki" r="100" cx="150" cy="125" fill="gold"></circle>
+
+        <circle r="70" cx="150" cy="125" stroke="darkorange" stroke-width="20" fill="none"></circle>
+
+        <circle r="70" cx="150" cy="125" fill="none" stroke="tomato" stroke-width="20" stroke-dasharray="40 50"
+            stroke-dashoffset="-2"></circle>
+
+        <circle r="50" cx="150" cy="125" fill="none" stroke="yellowgreen" stroke-width="20"></circle>
+    </svg>

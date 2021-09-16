@@ -1,0 +1,62 @@
+body {
+    font: 1em Verdana;
+    width: 50%;
+}
+li {
+    margin: 16px;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+#one {
+    text-align: start;
+    
+}
+.two {
+    color: rgb(83, 52, 52);
+}
+nav {
+   display: block;
+}
+#flag {
+    margin-top: 16px;
+}
+.cap1 {
+    width: 100px;
+    height: 100px;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.cap2 {
+    width: 100px;
+    height: 100px;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+}
+div {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+  }
+
+  .first {
+    background-color: red;
+    position: absolute;
+    z-index: 2;
+
+  }
+  .second {
+    background-color: blue;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    z-index: 1;
+    bottom: 20px;
+  
+  }
